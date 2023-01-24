@@ -9,4 +9,4 @@ input = [
     'value': 567},
 ]
 def solucao(*args):
-
+    # tulio legal
